@@ -4,5 +4,5 @@
  */
 abstract public class Item 
 {
-    
+    private String name;
 }
