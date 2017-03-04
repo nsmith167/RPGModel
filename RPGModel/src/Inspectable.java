@@ -2,7 +2,7 @@
  *
  * @author Nathan
  */
-public interface Inspectable 
+abstract public interface Inspectable 
 {
-    
+    abstract public String inspect();
 }
